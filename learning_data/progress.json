@@ -3,10 +3,16 @@
     {
       "date": "2026-01-30",
       "duration_min": 4.6
+    },
+    {
+      "date": "2026-01-30",
+      "duration_min": 7.3
     }
   ],
   "lessons_completed": [
-    "norstella_overview/what_is_norstella"
+    "norstella_overview/what_is_norstella",
+    "norstella_overview/customer_segments",
+    "citeline/citeline_products"
   ],
   "quiz_scores": {
     "norstella_overview": [
@@ -15,14 +21,29 @@
         "score": 83,
         "correct": 5,
         "total": 6
+      },
+      {
+        "date": "2026-01-30",
+        "score": 100,
+        "correct": 6,
+        "total": 6
+      }
+    ],
+    "citeline": [
+      {
+        "date": "2026-01-30",
+        "score": 75,
+        "correct": 3,
+        "total": 4
       }
     ]
   },
   "streak_days": [
     "2026-01-30"
   ],
-  "total_time_min": 4.6,
+  "total_time_min": 11.9,
   "mastery": {
-    "norstella_overview": 83
+    "norstella_overview": 100,
+    "citeline": 75
   }
 }
