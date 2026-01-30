@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    {
+      "date": "2026-01-30",
+      "duration_min": 4.6
+    }
+  ],
+  "lessons_completed": [
+    "norstella_overview/what_is_norstella"
+  ],
+  "quiz_scores": {
+    "norstella_overview": [
+      {
+        "date": "2026-01-30",
+        "score": 83,
+        "correct": 5,
+        "total": 6
+      }
+    ]
+  },
+  "streak_days": [
+    "2026-01-30"
+  ],
+  "total_time_min": 4.6,
+  "mastery": {
+    "norstella_overview": 83
+  }
+}
